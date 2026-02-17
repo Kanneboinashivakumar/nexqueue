@@ -107,9 +107,11 @@
 ## 📸 **Screenshots**
 
 ### **Landing Page**
+
 ## 🎥 Demo Video
 
 [Watch Demo](./screenshots/demo.mp)
+
 
 
 ![Landing Page](./screenshots/home.png)
@@ -117,8 +119,6 @@
 ![](./screenshots/hm2.png)
 
 ![](./screenshots/hm3.png)
-
-*Netflix-style intro animation with "NXQ" reveal*
 
 ### **Patient Dashboard**
 ![Patient Dashboard](./screenshots/patient.png)

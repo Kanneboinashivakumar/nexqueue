@@ -107,6 +107,8 @@
 ## 📸 **Screenshots**
 
 ### **Landing Page**
+![NexQueue INTRO ](./screenshots/demo.mp4)
+
 ![Landing Page](./screenshots/home.png)
 
 ![](./screenshots/hm2.png)
@@ -151,7 +153,6 @@
 
 ---
 
-## 🚀 **Live Demo**
 
 ## 🚀 Demo Access
 
@@ -329,10 +330,9 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 
 ## 📞 Contact
  
-🐙 GitHub: https://github.com/yourusername/nexqueue  
-🌍 Live Demo: https://nexqueue.vercel.app (in progress)
-💼 LinkedIn: https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
----
+- 🐙 GitHub: https://github.com/yourusername/nexqueue  
+- 🌍 Live Demo: https://nexqueue.vercel.app (in progress)
+- 💼 LinkedIn: https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 <p align="center">
   <pre>

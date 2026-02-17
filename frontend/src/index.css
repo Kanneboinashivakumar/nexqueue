@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Netflix-style font */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&display=swap');
+
+.font-netflix {
+  font-family: 'Anton', 'Bebas Neue', 'Arial Black', sans-serif;
+  letter-spacing: 2px;
+}
+
+/* Smooth transitions */
+* {
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Hide scrollbar during intro */
+.no-scrollbar {
+  overflow: hidden;
+}

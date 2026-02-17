@@ -2,7 +2,8 @@
 
 ![NexQueue Logo](https://via.placeholder.com/800x200/2563eb/ffffff?text=NexQueue+-+Skip+the+Queue.+Meet+the+Cure.)
 
-> **Skip the Queue. Meet the Cure.**  
+> **Skip the Queue. Meet the Cure.**
+> 
 > A real-time, priority-based patient queue optimization system that reduces waiting time by 60%.
 
 ---
@@ -106,60 +107,69 @@
 ## 📸 **Screenshots**
 
 ### **Landing Page**
-![Landing Page](https://via.placeholder.com/800x400/1a202c/ffffff?text=Landing+Page+-+Netflix+Style+Intro+Animation)
+![Landing Page](./screenshots/home.png)
+
+![](./screenshots/hm2.png)
+
+![](./screenshots/hm3.png)
 
 *Netflix-style intro animation with "NXQ" reveal*
 
 ### **Patient Dashboard**
-![Patient Dashboard](https://via.placeholder.com/800x400/2563eb/ffffff?text=Patient+Dashboard+-+Live+Queue+Tracking)
+![Patient Dashboard](./screenshots/patient.png)
 
 *Real-time queue position with wait time estimate*
 
 ### **Staff Dashboard**
-![Staff Dashboard](https://via.placeholder.com/800x400/7c3aed/ffffff?text=Staff+Dashboard+-+Smart+Queue+Management)
+![Staff Dashboard](./screenshots/staff.png)
 
 *Priority-sorted queue with one-click controls*
 
 ### **Doctor Dashboard**
-![Doctor Dashboard](https://via.placeholder.com/800x400/059669/ffffff?text=Doctor+Dashboard+-+Consultation+Interface)
+![Doctor Dashboard](./screenshots/doctor.png)
 
 *Current patient view with digital notes and prescription*
 
 ### **Lab Queue Dashboard**
-![Lab Queue](https://via.placeholder.com/800x400/db2777/ffffff?text=Lab+Queue+-+Test+Management)
+![Lab Queue](./screenshots/lab.png)
 
 *Lab tests with priority indicators and status tracking*
 
 ### **Pharmacy Queue Dashboard**
-![Pharmacy Queue](https://via.placeholder.com/800x400/d97706/ffffff?text=Pharmacy+Queue+-+Medicine+Dispensing)
+![Pharmacy Queue](./screenshots/ph1.png)
+
+![](./screenshots/ph2.png)
 
 *Prescription management with full workflow*
 
 ### **Admin Dashboard**
-![Admin Dashboard](https://via.placeholder.com/800x400/4f46e5/ffffff?text=Admin+Dashboard+-+Complete+Oversight)
+![Admin Dashboard](./screenshots/admin1.png)
+
+![](./screenshots/admin2.png)
 
 *System analytics, user management, and peak hours analysis*
-
-### **Queue Priority Algorithm**
-![Priority Algorithm](https://via.placeholder.com/800x300/6b7280/ffffff?text=Emergency+%3E+Senior+%3E+Normal+%2B+Waiting+Boost)
-
-*Smart algorithm that reorders queue based on priority AND fairness*
 
 ---
 
 ## 🚀 **Live Demo**
 
-| **Component** | **URL** | **Credentials** |
-|--------------|---------|-----------------|
-| **Frontend** | [https://nexqueue.vercel.app](https://nexqueue.vercel.app) | - |
-| **Backend API** | [https://nexqueue-backend.onrender.com](https://nexqueue-backend.onrender.com) | - |
-| **Patient Demo** | `/patient` | `rajesh@test.com` / `patient123` |
-| **Staff Demo** | `/staff` | `staff@test.com` / `staff123` |
-| **Doctor Demo** | `/doctor` | `doctor@test.com` / `doctor123` |
-| **Lab Demo** | `/lab` | `lab@test.com` / `staff123` |
-| **Pharmacy Demo** | `/pharmacy` | `pharmacy@test.com` / `staff123` |
-| **Admin Demo** | `/admin` | `admin@nexqueue.com` / `admin123` |
+## 🚀 Demo Access
 
+### **Live Deployment (In Progress)**
+| **Component** | **Status** | **URL** |
+|--------------|------------|---------|
+| Frontend | 🚧 In Progress | [https://nexqueue.vercel.app](https://nexqueue.vercel.app) |
+| Backend API | 🚧 In Progress | [https://nexqueue-backend.onrender.com](https://nexqueue-backend.onrender.com) |
+
+### **Local Development (Working Now)**
+| **Dashboard** | **URL** | **Credentials** |
+|--------------|---------|-----------------|
+| **Patient** | `http://localhost:5173/patient` | `rajesh@test.com` / `patient123` |
+| **Staff** | `http://localhost:5173/staff` | `staff@test.com` / `staff123` |
+| **Doctor** | `http://localhost:5173/doctor` | `doctor@test.com` / `doctor123` |
+| **Lab** | `http://localhost:5173/lab` | `lab@test.com` / `staff123` |
+| **Pharmacy** | `http://localhost:5173/pharmacy` | `pharmacy@test.com` / `staff123` |
+| **Admin** | `http://localhost:5173/admin` | `admin@nexqueue.com` / `admin123` |
 ---
 
 ## 💻 **Installation**
@@ -211,10 +221,9 @@ npm run dev
 cd Frontend
 npm run dev
 ```
-### **Step 7: Access the Application
+### **Step 7: Access the Application**
+
 ## Open http://localhost:5173
-### **Step 4: Install Frontend Dependencies**
-### **Step 4: Install Frontend Dependencies**
 
 ## 👥 User Roles
 
@@ -263,7 +272,7 @@ This ensures:
 
 ---
 
-## 🌐 Deployment
+## 🌐 Deployment (IN PROGRESS)
 
 ### 🚀 Frontend (Vercel)
 
@@ -300,17 +309,21 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 
 ## 👨‍💻 Team
 
-**Shiva Kumar Kanneboina** – Full Stack Developer  
+**Shiva Kumar Kanneboina** – Full Stack Developer 
+
 **Gurutej Ganapurapu** – Team Leader
+
 **Nandu Kankala** - Pitch Presenter
 
 ---
 
 ## 🙏 Acknowledgments
 
-- IIT Delhi Research Paper (2022) on healthcare queue optimization  
-- Human Rights Forum, Hyderabad (Jan 2026) report on Osmania Hospital  
-- All the patients who inspired us to build this  
+- **IIT Delhi Research (2022)** – Fatma & Ramamohan's paper on real-time length-of-stay predictions in Indian PHCs, which showed patients spend 60 minutes in facilities for just 10 minutes of care [ICORES 2022, DOI: 10.5220/0010837400003117]
+
+- **Human Rights Forum, Hyderabad (Jan 2026)** – Their report on Osmania General Hospital, where an accident victim waited three hours with a broken leg, directly inspired our mission [Deccan Chronicle, The Hindu]
+
+- **All the patients who shared their waiting room stories** – Your experiences reminded us that healthcare is about dignity, not just data
 
 ---
 
@@ -318,7 +331,36 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
  
 🐙 GitHub: https://github.com/yourusername/nexqueue  
 🌍 Live Demo: https://nexqueue.vercel.app (in progress)
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
+💼 LinkedIn: https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 ---
 
-![NexQueue Banner](https://via.placeholder.com/1200x100/1f2937/ffffff?text=NexQueue+-+Skip+the+Queue.+Meet+the+Cure.)
+<p align="center">
+  <pre>
+███╗   ██╗███████╗██╗  ██╗ ██████╗ ██╗   ██╗███████╗██╗   ██╗███████╗
+████╗  ██║██╔════╝╚██╗██╔╝██╔═══██╗██║   ██║██╔════╝██║   ██║██╔════╝
+██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║██║   ██║█████╗  ██║   ██║█████╗  
+██║╚██╗██║██╔══╝   ██╔██╗ ██║▄▄ ██║██║   ██║██╔══╝  ██║   ██║██╔══╝  
+██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝╚██████╔╝███████╗╚██████╔╝███████╗
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
+  </pre>
+</p>
+
+<p align="center">
+  <strong>NEXQUEUE</strong>
+</p>
+
+<p align="center">
+  <strong>Skip the Queue. Meet the Cure.</strong>
+</p>
+
+<p align="center">
+  A real-time, priority-based healthcare queue management system reducing waiting time by 60%
+</p>
+
+<p align="center">
+  <a href="#-features">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-quick-start">Quick Start</a> •
+  <a href="#-demo">Demo</a>
+</p>
+

@@ -12,7 +12,7 @@
 - [✨ Features](#-features)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📸 Screenshots](#-screenshots)
-- [🚀 Live Demo](#-DemoAccess)
+- [🚀 Live Demo](#-live-demo)
 - [💻 Installation](#-installation)
 - [🔧 Configuration](#-configuration)
 - [👥 User Roles](#-user-roles)
@@ -154,7 +154,7 @@
 ---
 
 
-## 🚀 Demo Access
+## 🚀 **Live Demo**
 
 ### **Live Deployment (In Progress)**
 | **Component** | **Status** | **URL** |

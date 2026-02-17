@@ -107,7 +107,10 @@
 ## 📸 **Screenshots**
 
 ### **Landing Page**
-![NexQueue INTRO ](./screenshots/demo.mp4)
+## 🎥 Demo Video
+
+[Watch Demo](./screenshots/demo.mp)
+
 
 ![Landing Page](./screenshots/home.png)
 
